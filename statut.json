@@ -1,0 +1,19 @@
+{
+  "format": "panier2.prix-publics-statut.v1",
+  "generated_at": "2026-11-01T04:14:43.603879+00:00",
+  "publication_at": "2026-11-01",
+  "item_count": 24,
+  "stores": {
+    "maxi": 5,
+    "superc": 5,
+    "iga": 5,
+    "metro": 5,
+    "walmart": 4
+  },
+  "oldest_observation_at": "2026-10-20T02:42:50.603000+00:00",
+  "newest_observation_at": "2026-10-31T20:01:56.088000+00:00",
+  "coverage_complete": false,
+  "branch_prices_confirmed": false,
+  "source": "Export collecteur fourni le 1er novembre 2026",
+  "note": "Observations historiques réelles; non garanties comme prix actuels, ni dans les succursales de Val-d'Or."
+}
